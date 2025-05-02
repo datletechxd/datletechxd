@@ -6,5 +6,4 @@
 
 ## GitHub Stats 📊
 
-![Dat's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=datletechxd&show_icons=true&hide_border=true&bg_color=0000&text_color=FFAACC&title_color=FFAACC)
-![Dat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datletechxd&layout=compact&hide_border=true&bg_color=0000&text_color=FFAACC&title_color=FFAACC&hide=php)
+![Dat's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=datletechxd&show_icons=true&icon_color=00E676&title_color=FF99CC&text_color=FFFFFF&bg_color=0000)
