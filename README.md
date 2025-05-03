@@ -4,7 +4,7 @@
 - 🚀 It may not seem impressive now, but it will grow and improve day by day.
 
 ### GitHub Stats 📊
-![Datletechxd's GitHub stats](https://github-readme-stats.vercel.app/api?username=datletechxd&show_icons=true&border_color=3D444D&theme=radical)
+![Datletechxd's GitHub stats](https://github-readme-stats.vercel.app/api?username=datletechxd&show_icons=true&border_color=3D444D&theme=radical&cache_seconds=7200)
 
 ### Profile Views ✨
 ![Datletechxd's Profile views](https://count.getloli.com/@datletechxd?name=datletechxd&theme=rule34&padding=1&pixelated=0&darkmode=0)
